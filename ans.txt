@@ -1,0 +1,4 @@
+gitignore file will be at the root folder of the repo and we need to add extensions of the file required to exclude form the repo. We have to include *.jar, *.class files.
+Merging the changes of another branch to your local branch without any conflcits is a fast forward. 
+Rejecting frequent conflicts between members, the indiviuals should be responsible for his/her changes and to frequently sync with master of the development branch.
+There is no limit and based on the requirement we  can make more than 1 repo.
